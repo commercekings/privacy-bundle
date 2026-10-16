@@ -4,6 +4,8 @@
 
 Works with Magento 2.4+ · Luma and Hyvä · PHP 8.1–8.5
 
+[![License](https://badgen.net/github/license/commercekings/privacy-bundle)](LICENSE) [![Release](https://badgen.net/github/release/commercekings/privacy-bundle)](https://github.com/commercekings/privacy-bundle/releases)
+
 <sub>Expert Magento engineering. New store, maintenance, custom development, high-performance hosting or more sales? [Talk to us](https://commercekings.net).</sub>
 
 **Opt-in in one line: the consent bridge and the cookie banner together.**
