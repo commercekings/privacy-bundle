@@ -10,7 +10,7 @@
     ],
     "require": {
         "commercekings/module-consent-notification": "^0.1",
-        "commercekings/module-consent-vanilla": "^0.1 || ^0.2"
+        "commercekings/module-consent-vanilla": "^0.1"
     },
     "extra": {
         "branch-alias": {
