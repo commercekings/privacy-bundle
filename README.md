@@ -1,6 +1,6 @@
 # Privacy bundle
 
-Switches CommerceKings notifications to opt-in: the consent bridge and the cookie banner in one require.
+**Opt-in in one require: the consent bridge and the cookie banner together.**
 
 ```sh
 composer require commercekings/privacy-bundle:^0.1
