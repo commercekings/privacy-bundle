@@ -1,6 +1,6 @@
 {
-    "name": "commercekings/consent-optin",
-    "description": "Opt-in for CommerceKings notifications: the consent bridge and the cookie banner in one require.",
+    "name": "commercekings/privacy-bundle",
+    "description": "CommerceKings privacy bundle: the consent bridge and the cookie banner in one require, for opt-in notifications.",
     "type": "metapackage",
     "license": "MIT",
     "authors": [
@@ -17,9 +17,9 @@
             "dev-main": "0.1.x-dev"
         }
     },
-    "homepage": "https://github.com/commercekings/consent-optin",
+    "homepage": "https://github.com/commercekings/privacy-bundle",
     "support": {
-        "issues": "https://github.com/commercekings/consent-optin/issues",
-        "source": "https://github.com/commercekings/consent-optin"
+        "issues": "https://github.com/commercekings/privacy-bundle/issues",
+        "source": "https://github.com/commercekings/privacy-bundle"
     }
 }

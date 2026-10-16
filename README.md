@@ -1,9 +1,9 @@
-# Consent opt-in
+# Privacy bundle
 
 Switches CommerceKings notifications to opt-in: one require that installs the consent bridge and the cookie banner.
 
 ```sh
-composer require commercekings/module-abandoned-cart:^0.1 commercekings/consent-optin:^0.1
+composer require commercekings/module-abandoned-cart:^0.1 commercekings/privacy-bundle:^0.1
 bin/magento setup:upgrade
 ```
 
