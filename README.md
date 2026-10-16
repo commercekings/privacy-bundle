@@ -1,5 +1,7 @@
 # Privacy bundle
 
+Works with Magento 2.4+ · Luma and Hyvä · PHP 8.1–8.5
+
 **Opt-in in one line: the consent bridge and the cookie banner together.**
 
 ```sh
