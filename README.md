@@ -1,18 +1,21 @@
 # Privacy bundle
 
-Switches CommerceKings notifications to opt-in: one require that installs the consent bridge and the cookie banner.
+Switches CommerceKings notifications to opt-in: the consent bridge and the cookie banner in one require.
 
 ```sh
-composer require commercekings/module-abandoned-cart:^0.1 commercekings/privacy-bundle:^0.1
+composer require commercekings/privacy-bundle:^0.1
 bin/magento setup:upgrade
 ```
+
+Install it next to any CommerceKings feature (e.g. `commercekings/module-abandoned-cart`). Without a feature it waits;
+without the bundle, features run opt-out.
 
 ## What it installs
 
 - `commercekings/module-consent-notification` – the bridge: subscriptions need a consent, withdrawing it removes them
 - `commercekings/module-consent-vanilla` – the cookie banner, with the consent core and the default categories
 
-It contains no code. Without it, CommerceKings features run opt-out.
+It contains no code.
 
 ## More
 
