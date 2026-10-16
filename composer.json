@@ -1,0 +1,25 @@
+{
+    "name": "commercekings/consent-optin",
+    "description": "Opt-in for CommerceKings notifications: the consent bridge and the cookie banner in one require.",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CommerceKings"
+        }
+    ],
+    "require": {
+        "commercekings/module-consent-notification": "^0.1",
+        "commercekings/module-consent-vanilla": "^0.1"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "0.1.x-dev"
+        }
+    },
+    "homepage": "https://github.com/commercekings/consent-optin",
+    "support": {
+        "issues": "https://github.com/commercekings/consent-optin/issues",
+        "source": "https://github.com/commercekings/consent-optin"
+    }
+}
