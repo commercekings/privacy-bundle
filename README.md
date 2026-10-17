@@ -16,6 +16,10 @@ bin/magento setup:upgrade
 Install it next to any CommerceKings feature (e.g. `commercekings/module-abandoned-cart`). Without a feature it waits;
 without the bundle, features run opt-out.
 
+Then select the banner in **Stores > Configuration > CommerceKings > Consent > Source**: *Cookie banner
+(vanilla-cookieconsent)*. Until you do, no banner is shown and no visitor has consent, so features send nothing.
+Enable each feature in its own section (e.g. **CommerceKings > Abandoned Cart > Enabled**).
+
 ## What it installs
 
 - `commercekings/module-consent-notification` – the bridge: subscriptions need a consent, withdrawing it removes them
