@@ -29,7 +29,7 @@ It contains no code.
 
 ## More
 
-[Changes](CHANGELOG.md)
+[Compatibility](COMPATIBILITY.md) · [Changes](CHANGELOG.md)
 
 ## Disclaimer
 
