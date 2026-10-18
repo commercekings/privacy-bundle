@@ -14,11 +14,12 @@ bin/magento setup:upgrade
 ```
 
 Install it next to any CommerceKings feature (e.g. `commercekings/module-abandoned-cart`). Without a feature it waits;
-without the bundle, features run opt-out.
+without the bundle, email features run opt-out. Text messages are always opt-in, through the number's checkbox.
 
 Then select the banner in **Stores > Configuration > CommerceKings > Consent > Source**: *Cookie banner
-(vanilla-cookieconsent)*. Until you do, no banner is shown and no visitor has consent, so features send nothing.
-Enable each feature in its own section (e.g. **CommerceKings > Abandoned Cart > Enabled**).
+(vanilla-cookieconsent)*. Until you do, no banner is shown and no visitor has consent, so features that rest on the
+banner send nothing (text reminders use the number's checkbox). Enable each feature in its own section (e.g.
+**CommerceKings > Abandoned Cart > Enabled**).
 
 ## What it installs
 
