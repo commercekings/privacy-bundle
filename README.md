@@ -19,7 +19,7 @@ without the bundle, email features run opt-out. Text messages are always opt-in,
 Then select the banner in **Stores > Configuration > CommerceKings > Consent > Source**: *Cookie banner
 (vanilla-cookieconsent)*. Until you do, no banner is shown and no visitor has consent, so features that rest on the
 banner send nothing (text reminders use the number's checkbox). Enable each feature in its own section (e.g.
-**CommerceKings > Abandoned Cart > Enabled**).
+**CommerceKings > Abandoned Cart > Email reminders > Enabled**).
 
 ## What it installs
 
