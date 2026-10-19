@@ -28,6 +28,10 @@ banner send nothing (text reminders use the number's checkbox). Enable each feat
 
 It contains no code.
 
+## Tested (as of 0.1.0)
+
+A bundle of other packages, with no code of its own. See *Tested* in [Provable Consent](https://github.com/commercekings/module-consent#tested-as-of-010), [Cookie banner](https://github.com/commercekings/module-consent-vanilla#tested-as-of-010) and [Consent for notifications](https://github.com/commercekings/module-consent-notification#tested-as-of-010).
+
 ## More
 
 [Compatibility](COMPATIBILITY.md) · [Changes](CHANGELOG.md)
@@ -38,10 +42,6 @@ These modules help you ask for, record and respect your shoppers' choices – th
 their own. You are responsible for your store's privacy: what you collect, the wording you show, your privacy policy
 and whether your setup meets the laws that apply to you (e.g. GDPR, ePrivacy, email marketing rules). Get legal advice
 if you are unsure.
-
-## Tested (as of 0.1.0)
-
-A bundle of other packages, with no code of its own. See *Tested* in [Provable Consent](https://github.com/commercekings/module-consent#tested-as-of-010), [Cookie banner](https://github.com/commercekings/module-consent-vanilla#tested-as-of-010) and [Consent for notifications](https://github.com/commercekings/module-consent-notification#tested-as-of-010).
 
 ---
 
